@@ -1,0 +1,24 @@
+{
+    "site": "yapocl",
+    "itemId": "33180310",
+    "relatedItems": [
+        "33195114",
+        "33171222",
+        "33175480",
+        "33173044",
+        "33178540",
+        "33176732",
+        "33179266",
+        "33180271",
+        "33180393",
+        "33180392",
+        "33163457"
+    ],
+    "metadata": {
+        "transactionId": "sdrn:yapocl:recommendation:ee83ee95-60b7-4325-88ab-92295fcf5911",
+        "listName": "relateditems:v3",
+        "queryParams": {
+            "itemId": "sdrn:yapocl:classified:33180310"
+        }
+    }
+}
